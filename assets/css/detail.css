@@ -1,0 +1,74 @@
+
+.turn{
+    margin-top: 100px;
+}
+
+.table{
+    /* background: #fff !important; */
+    box-shadow: 0 2px 6px rgba(65,11,16,.15);
+    line-height: 1 !important; 
+}
+
+
+body{
+    background:#FEFBFB;
+}
+p {
+    margin: 0 !important;
+    font-size: 15px;
+}
+
+.hour-item .hour{
+    text-align: center;
+    width: 20%;
+}
+
+
+.hour-item .values{
+    width: 40%;
+    gap: 20px;
+
+}
+
+.hour-item  .progressbar {
+    background: rgb(237, 237, 238);
+    /* border-radius: 2px; */
+}
+
+.hour-item .progressbar-color {
+    width: 50%;
+    background: linear-gradient(to right, #0071f5, rgb(17, 209, 203));
+    padding: 3px 0;
+    /* border-radius: 2px; */
+}
+
+.progressbar-number {
+    margin: 0;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+.turn2 .progressbar-color{
+    background: linear-gradient(to right, #f5bc00, rgb(209, 17, 113));
+}
+
+
+h3{
+    font-family: "Baloo 2", cursive;
+    color:#666;
+    padding:5px;
+    margin:5px 0;
+    font-size:22px;
+  }
+  .turn1{
+
+background:#fff;
+/* padding:5px; */
+box-shadow: 0 2px 6px rgba(65,11,16,.15);
+/* border-radius:5px; */
+}
+
+
